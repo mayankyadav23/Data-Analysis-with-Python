@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project is a statistical calculator that uses **Numpy** to compute essential metrics—**mean**, **variance**, **standard deviation**, **min**, **max**, and **sum**—from a 3x3 matrix. It transforms a simple list of numbers into meaningful insights across both rows, columns, and the entire matrix (flattened). Perfect for anyone starting out with Python and data manipulation!
+This project is a statistical calculator that uses **Numpy** to compute essential metrics—**mean**, **variance**, **standard deviation**, **min**, **max**, and **sum**—from a 3x3 matrix. It transforms a simple list of numbers into meaningful insights across both rows, columns, and the entire matrix (flattened).
 
 📌 **Goal**: Implement a function that calculates statistics for a matrix from a list of numbers, returning results in a clear, easy-to-read dictionary format.
 
