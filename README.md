@@ -45,3 +45,6 @@ The following tools and libraries were used throughout the projects:
 Through these projects, I have built a strong foundation in data analysis using Python. I have learned how to clean, process, and visualize data to derive meaningful insights. This certification has provided me with the skills necessary to tackle real-world data analysis challenges using open-source tools.
 
 Feel free to explore each project in its respective folder for more details.
+------------
+
+##### Contact Info : [LinkedIn](https://linkedin.com/in/mayankyadv)
