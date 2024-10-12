@@ -41,6 +41,10 @@ The following tools and libraries were used throughout the projects:
 - **Matplotlib**
 - **Seaborn**
 
+## 🏅 Certificate
+I have completed the Data Analysis with Python certification through FreeCodeCamp ORG, which has equipped me with essential skills for data analysis using open-source tools.![Screenshot 2024-10-12 113825](https://github.com/user-attachments/assets/40dc1d85-e04f-4c10-9c3c-ce69b89d1402)
+
+
 ## 📈 Conclusion
 Through these projects, I have built a strong foundation in data analysis using Python. I have learned how to clean, process, and visualize data to derive meaningful insights. This certification has provided me with the skills necessary to tackle real-world data analysis challenges using open-source tools.
 
