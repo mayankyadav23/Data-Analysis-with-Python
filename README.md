@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python Certification Projects
+# 📊 Data Analysis with Python - FCC
 
 ## 🔍 Overview
 Data Analysis has been around for a long time. Up until a few years ago, it was often practiced using expensive, closed-source tools like Tableau. However, with the rise of Python, SQL, and other open-source libraries, data analysis has become more accessible and powerful.
