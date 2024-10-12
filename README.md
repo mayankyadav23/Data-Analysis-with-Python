@@ -42,7 +42,7 @@ The following tools and libraries were used throughout the projects:
 - **Seaborn**
 
 ## 🏅 Certificate
-I have completed the Data Analysis with Python certification through FreeCodeCamp ORG, which has equipped me with essential skills for data analysis using open-source tools.![Screenshot 2024-10-12 113825](https://github.com/user-attachments/assets/40dc1d85-e04f-4c10-9c3c-ce69b89d1402)
+![Screenshot 2024-10-12 113825](https://github.com/user-attachments/assets/40dc1d85-e04f-4c10-9c3c-ce69b89d1402)
 
 
 ## 📈 Conclusion
