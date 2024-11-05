@@ -5,6 +5,10 @@ Data Analysis has been around for a long time. Up until a few years ago, it was 
 
 In this certification, I have gained fundamental skills in data analysis using Python. By the end of this certification, I learned how to read data from various sources like CSV files and SQL databases, and how to process and visualize data using libraries like Numpy, Pandas, Matplotlib, and Seaborn.
 
+## 🏅 Certificate
+![Screenshot 2024-10-12 113825](https://github.com/user-attachments/assets/40dc1d85-e04f-4c10-9c3c-ce69b89d1402)
+
+
 ## 📁 Projects
 This repository contains the following five projects, each demonstrating specific data analysis techniques:
 
@@ -40,9 +44,6 @@ The following tools and libraries were used throughout the projects:
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
-
-## 🏅 Certificate
-![Screenshot 2024-10-12 113825](https://github.com/user-attachments/assets/40dc1d85-e04f-4c10-9c3c-ce69b89d1402)
 
 
 ## 📈 Conclusion
